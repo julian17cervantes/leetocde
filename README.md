@@ -1,2 +1,2 @@
-# leetocde
+# Leetocde
 Personal Leetcode Submission
